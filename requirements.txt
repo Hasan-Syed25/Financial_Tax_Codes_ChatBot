@@ -1,0 +1,15 @@
+accelerate
+einops
+sentence-transformers
+transformers
+qdrant-client
+llama-index-agent-openai
+llama-index-cli
+llama-index-core
+llama-index-embeddings-fastembed
+llama-index-legacy
+llama-index-llms-huggingface
+llama-index-vector-stores-qdrant
+langchain
+llama-index
+nltk==3.8.1
