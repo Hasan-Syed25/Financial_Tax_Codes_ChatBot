@@ -8,6 +8,8 @@ This repository contains the source code for a ChatBot designed to provide infor
 - Information retrieval on financial tax codes
 - User-friendly experience
 
+![Screenshot 2024-08-19 004722](https://github.com/user-attachments/assets/59e33aa8-dafb-491f-96db-ff419157d6ef)
+
 ## Installation
 1. Clone the repository:
 ```bash
